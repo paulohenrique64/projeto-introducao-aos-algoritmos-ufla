@@ -1,4 +1,4 @@
-# Projeto cadastro de plantas em C++
+# Projeto cadastro de plantas: CRUD C++ em arquivo binário
 
 ## Projeto realizado na disciplina de Introdução aos Algoritmos. 
 
