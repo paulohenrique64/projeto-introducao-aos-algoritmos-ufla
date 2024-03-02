@@ -1,5 +1,6 @@
-# Projeto cadastro de plantas: CRUD C++ em arquivo binário
+# Cadastro de plantas
 
-## Projeto realizado na disciplina de Introdução aos Algoritmos. 
-
-### O sistema foi construído em C++ utilizando princípios de alocação dinâmica de memória. Nele existem funções para leitura e manipulação dos dados de um arquivo binário (.dat).
+- Projeto realizado na disciplina de Introdução aos Algoritmos da UFLA
+- Feito em C++
+- Criar, ler, atualizar e excluir objetos em um arquivo binário (.dat)
+- O projeto foi construído utilizando princípios de alocação dinâmica de memória
