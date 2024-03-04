@@ -1,4 +1,4 @@
-# Cadastro de plantas
+# Cadastro de itens
 
 - Projeto realizado na disciplina de Introdução aos Algoritmos da UFLA
 - Feito em C++
